@@ -1,4 +1,4 @@
-# CRUD-Databse-app
+# CRUD-Database-app
 
 This app is a form that allows user to create, read, update and delete book information from a database using the the following
 technologies.
